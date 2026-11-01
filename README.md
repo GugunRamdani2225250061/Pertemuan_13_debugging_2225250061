@@ -1,14 +1,14 @@
 # PERTEMUAN 13_DEBUGGING
-### A. Identitas Mahasiswa
+## A. Identitas Mahasiswa
 - Nama: Gugun Ramdani
 - NIM: 2225250061
 - Program Studi: S1 Pendidikan Matematika
 - Mata Kuliah: Algoritma dan Pemrograman
 
-### B. Deskripsi Praktikum
+## B. Deskripsi Praktikum
 Praktikum ini membahas debugging, tracing, testing, dan test case menggunakan Python di Visual Studio Code. Tujuannya adalah memahami kesalahan program, menelusuri alur eksekusi, memperbaiki kode, serta menguji hasil program.
 
-### C. Struktur Folder
+## C. Struktur Folder
 ```text
 Pertemuan_13_debugging_2225250061
 ├── data/
@@ -28,7 +28,7 @@ Pertemuan_13_debugging_2225250061
 ├── kuis formatif_pertemuan 13.docx
 └── README.md
 ```
-### D. Hasil Pengerjaan
+## D. Hasil Pengerjaan
 1. Kasus
 - Kasus 1: Memperbaiki kesalahan batas kelulusan menggunakan operator `>=`.
 - Kasus 2: Memperbaiki perhitungan rata-rata menggunakan `len()`.
@@ -43,7 +43,7 @@ Pertemuan_13_debugging_2225250061
 3. Praktik 4
 Memperbaiki kesalahan perhitungan rata-rata, penentuan kelulusan, dan pencarian nilai tertinggi.
 
-### E. Hasil Pengujian
+## E. Hasil Pengujian
 | Pengujian | Input | Hasil |
 |---|---|---|
 | Rata-rata file | 80, 90, 70, 85 | 81.25 |
@@ -52,8 +52,8 @@ Memperbaiki kesalahan perhitungan rata-rata, penentuan kelulusan, dan pencarian 
 | Status nilai | 59 | Tidak lulus |
 | Nilai tertinggi | [80, 60, 90, 70] | 90 |
 
-### F. Kuis Formatif
+## F. Kuis Formatif
 Kuis formatif dikerjakan berdasarkan materi Pertemuan 13 dan disimpan dalam file `kuis formatif_pertemuan 13.docx`.
 
-### G. Kesimpulan
+## G. Kesimpulan
 Melalui praktikum ini, mahasiswa memahami cara menemukan dan memperbaiki kesalahan program menggunakan debugging, menelusuri alur program dengan tracing, serta menguji program menggunakan test case. Praktikum ini juga meningkatkan kemampuan menggunakan Visual Studio Code untuk mengembangkan program Python.
